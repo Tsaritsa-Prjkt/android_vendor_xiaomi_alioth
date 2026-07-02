@@ -194,6 +194,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libfcsam \
     audio.primary.alioth \
+    sound_trigger.primary.kona \
     liba2dpoffload_alioth \
     libacdb-fts \
     libacdbloader \
@@ -203,6 +204,10 @@ PRODUCT_PACKAGES += \
     libaudio_log_utils \
     libaudiocloudctrl \
     libaudioroute_ext \
+    libcapiv2svacnn \
+    libgcs-calwrapper \
+    libgcs-ipc \
+    libgcs \
     libmmhardware \
     libresampler \
     libssrec \
