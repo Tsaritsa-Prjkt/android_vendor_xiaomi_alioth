@@ -195,11 +195,17 @@ PRODUCT_PACKAGES += \
     libfcsam \
     audio.primary.alioth \
     liba2dpoffload_alioth \
+    libacdb-fts \
+    libacdbloader \
+    libacdbrtac \
+    libadiertac \
+    libaudcal \
     libaudio_log_utils \
     libaudiocloudctrl \
     libaudioroute_ext \
     libmmhardware \
     libresampler \
+    libssrec \
     vendor.qti.hardware.audiohalext@1.0 \
     libxlog \
     com.qti.actuator.alioth_dw9800 \
